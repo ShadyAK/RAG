@@ -1,1 +1,6 @@
 venv
+.env
+convert_to_emb.py
+temporary_search.py
+vectorize.py
+src/search_vector.py
