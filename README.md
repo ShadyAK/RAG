@@ -20,7 +20,6 @@ Retrieval Augmented Generation (RAG) is a powerful technique that combines the s
 * **Vectorize document content:** Create vector representations of the document chunks for efficient similarity search.
 * **Develop a RAG-based interface:** Allow users to interact with the system by querying against the stored documents and receive LLM-generated responses based on the retrieved information.
 
-**TODO List:**
 
 **TODO List:**
 
